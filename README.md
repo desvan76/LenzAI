@@ -1,16 +1,30 @@
-# lenzai
+# 🚀 LenzAI
 
-A new Flutter project.
+LenzAI is a Flutter Android application that detects whether an image is real or AI-generated.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 About
 
-A few resources to get you started if this is your first Flutter project:
+LenzAI helps users analyze images and determine their authenticity using AI.  
+Built with Flutter, it provides a simple and fast experience for image detection.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Getting Started
+
+### 📦 Prerequisites
+- Flutter SDK
+- Dart SDK
+- Android Studio / VS Code
+- Emulator or physical Android device
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/desvan76/LenzAI.git
+cd LenzAI
+flutter pub get
+flutter run
